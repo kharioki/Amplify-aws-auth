@@ -67,3 +67,6 @@ awsconfiguration.json
 
 ## amplify optional
 amplify/team-provider-info.json
+
+# CocoaPods
+/ios/Pods/
